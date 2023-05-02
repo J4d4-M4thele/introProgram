@@ -1,0 +1,19 @@
+body {
+    font-family: "Comic Sans MS", cursive;
+    background-color: rgba(248, 230, 71, 0.932);
+  }
+h1 {
+   font-family: cursive;  
+   color: rgb(51, 100, 6);
+}
+  
+  #buttonBox {
+    margin-top: 30px;
+    text-align: left;
+  }
+  
+  #thingToDo {
+    margin-top: 20px;
+    background-color: #24df62e5;
+  }
+  
