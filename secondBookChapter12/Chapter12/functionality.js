@@ -27,7 +27,7 @@ function speedUp() {
 }
 //lengthen track by changing the position.
 function checkPosition(currentPosition) {
-    if (currentPosition === 600) {
+    if (currentPosition === 200) {
         alert(":O!");
         console.log("Crash!");
         clearInterval(animation);
