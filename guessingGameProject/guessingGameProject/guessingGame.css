@@ -1,0 +1,8 @@
+.game-container{
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+  text-align: center;
+  height: 50%;
+  width: 100%;
+  background-color: rgb(88, 23, 150);
+}
